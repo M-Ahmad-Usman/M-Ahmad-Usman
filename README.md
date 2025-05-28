@@ -69,9 +69,15 @@ Collection of projects completed during The Odin Project's Foundation course, sh
 
 **Tech Stack:** HTML5, CSS3, JavaScript
 
-- [Etch A Sketch](https://github.com/M-Ahmad-Usman/etch-a-sketch)
-- [Calculator](https://github.com/M-Ahmad-Usman/calculator)
-- [Rock Paper Scissors](https://github.com/M-Ahmad-Usman/rock-paper-scissors)
+- **Etch A Sketch**
+    - [Github Repo](https://github.com/M-Ahmad-Usman/etch-a-sketch)
+    - [Live Preview](https://m-ahmad-usman.github.io/etch-a-sketch/)
+- **Calculator**
+    - [Github Repo](https://github.com/M-Ahmad-Usman/calculator)
+    - [live Preview](https://m-ahmad-usman.github.io/calculator/)
+- **Rock Paper Scissors**
+    - [Github Repo](https://github.com/M-Ahmad-Usman/rock-paper-scissors)
+    - [Live Preview](https://m-ahmad-usman.github.io/rock-paper-scissors/)
 
 ## Contribution Graph
 
