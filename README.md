@@ -55,7 +55,7 @@ I'm a Computer Science student in my 6th semester with a CGPA of 3.49/4.00, pass
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmad-Usman&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=M-Ahmad-Usman&theme=radical)
 
 ## Featured Projects
 
