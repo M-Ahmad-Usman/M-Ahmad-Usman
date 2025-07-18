@@ -104,7 +104,7 @@ A passionate Computer Science student with a strong foundation in software engin
 ### 2. The Odin Project - Foundation Series
 > Interactive web applications showcasing modern frontend development skills and creative problem-solving.
 
-#### **Etch A Sketch**
+#### **2.1 Etch A Sketch**
 **Features:**
 - **Dynamic Grid Generation** with customizable sizes
 - **Multi-Color Drawing** with color picker integration
@@ -114,7 +114,7 @@ A passionate Computer Science student with a strong foundation in software engin
 
 **Links:** [Code](https://github.com/M-Ahmad-Usman/etch-a-sketch) | [Live Demo](https://m-ahmad-usman.github.io/etch-a-sketch/)
 
-#### **Rock Paper Scissors**
+#### **2.2 Rock Paper Scissors**
 **Features:**
 - **Interactive Game Logic** with score tracking
 - **Visual Feedback** with custom hand gesture images
