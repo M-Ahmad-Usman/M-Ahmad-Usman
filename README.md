@@ -9,7 +9,7 @@
 A passionate Computer Science student with a strong foundation in software engineering and a CGPA of **3.55/4.00**. I love building scalable solutions, exploring cutting-edge technologies, and solving real-world problems through innovative code.
 
 ### What I'm up to:
-- Recently built an **Advanced Mathematical Expression Evaluator** with sophisticated parsing algorithms
+- Built an **Advanced Mathematical Expression Evaluator** implementing **Shunting Yard** algorithm.
 - Currently mastering **Full Stack Web Development** through The Odin Project & **CS50x (Harvard)**
 - Open to collaborating on **web development projects** and contributing to **open source initiatives**
 - Passionate about **Data Structures & Algorithms, OOP, Database Design, and Modern Web Technologies**
@@ -32,12 +32,13 @@ A passionate Computer Science student with a strong foundation in software engin
 
 ### Backend Development
 <a href="https://skillicons.dev">
-  	<img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=2" />
+  	<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" />
 </a>
 
 ### Databases & Data Management
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=CC2927)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white&labelColor=336791)
+<a href="https://skillicons.dev">
+  	<img src="https://skillicons.dev/icons?i=mongodb,sqlite,sqlserver&theme=dark" />
+</a>
 
 ### Development Tools & Platforms
 <a href="https://skillicons.dev">
@@ -82,7 +83,7 @@ A passionate Computer Science student with a strong foundation in software engin
 ## Featured Projects
 
 ### 1. Advanced Arithmetic Expression Evaluator
-> A sophisticated web-based calculator that demonstrates advanced algorithm implementation and modern JavaScript development practices.
+> A sophisticated web-based calculator demonstrating advanced algorithm implementation and modern JavaScript development practices.
 
 **Key Features:**
 - **Complex Expression Parsing** using the Shunting Yard algorithm
@@ -95,37 +96,42 @@ A passionate Computer Science student with a strong foundation in software engin
 
 **Tech Stack:** JavaScript (ES6+), HTML5, CSS3, Algorithm Design, Data Structures
 
-**Links:**
-- [Source Code](https://github.com/M-Ahmad-Usman/calculator)
-- [Live Demo](https://m-ahmad-usman.github.io/calculator/)
+**Links:** [Source Code](https://github.com/odin-projects-ahmad/calculator) | [Live Demo](https://odin-projects-ahmad.github.io/calculator/)
 
 ---
 
-### 2. The Odin Project - Foundation Series
-> Interactive web applications showcasing modern frontend development skills and creative problem-solving.
+### 2. Etch A Sketch
+> An interactive drawing application with dynamic grid generation and creative effects.
 
-#### **2.1 Etch A Sketch**
-**Features:**
-- **Dynamic Grid Generation** with customizable sizes
+**Key Features:**
+- **Dynamic Grid Generation** with customizable sizes (up to 100×100)
 - **Multi-Color Drawing** with color picker integration
 - **Randomization Effects** for creative artwork
 - **Real-time Interaction** with smooth mouse events
 - **Reset & Erase Functionality**
 
-**Links:** [Code](https://github.com/M-Ahmad-Usman/etch-a-sketch) | [Live Demo](https://m-ahmad-usman.github.io/etch-a-sketch/)
+**Tech Stack:** Vanilla JavaScript, HTML5, CSS3, DOM Manipulation
 
-#### **2.2 Rock Paper Scissors**
-**Features:**
-- **Interactive Game Logic** with score tracking
-- **Visual Feedback** with custom hand gesture images
-- **Responsive Design** for all device types
-- **Game State Management**
-
-**Links:** [Code](https://github.com/M-Ahmad-Usman/rock-paper-scissors) | [Live Demo](https://m-ahmad-usman.github.io/rock-paper-scissors/)
+**Links:** [Source Code](https://github.com/odin-projects-ahmad/etch-a-sketch) | [Live Demo](https://odin-projects-ahmad.github.io/etch-a-sketch/)
 
 ---
 
-### 3. Data Structures & Algorithms Implementation
+### 3. Rock Paper Scissors
+> A classic game implementation with modern UI/UX design and interactive gameplay.
+
+**Key Features:**
+- **Interactive Game Logic** with score tracking
+- **Visual Feedback** with custom hand gesture images
+- **Responsive Design** for all device types
+- **Game State Management** with round-based scoring
+
+**Tech Stack:** JavaScript, HTML5, CSS3, Event Handling
+
+**Links:** [Source Code](https://github.com/odin-projects-ahmad/rock-paper-scissors) | [Live Demo](https://odin-projects-ahmad.github.io/rock-paper-scissors/)
+
+---
+
+### 4. Data Structures & Algorithms Implementation
 <div>
 
 **Core Implementations:**
@@ -161,7 +167,7 @@ Currently Growing In:
 2025 Goals:
 ├── Complete CS50x Program
 ├── Build 5+ Full Stack Projects
-├── Contribute to 10+ Open Source Projects
+├── Contribute to 5+ Open Source Projects
 └── Master React.js & Node.js Ecosystem
 ```
 
@@ -185,11 +191,14 @@ Currently Growing In:
   	<a href="https://linkedin.com/in/m-ahmad-usman" target="_blank">
     	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   	</a>
+  	<a href="https://github.com/M-Ahmad-Usman" target="_blank">
+    	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  	</a>
   	<a href="https://x.com/Ahmad415477053" target="_blank">
     	<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   	</a>
  	<a href="mailto:developer.ahmad@proton.me">
-    	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    	<img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
  	</a>
 </p>
 
