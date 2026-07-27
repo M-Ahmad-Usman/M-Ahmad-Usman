@@ -10,13 +10,13 @@
 
 <img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-A passionate Computer Science student with a strong foundation in software engineering and a CGPA of **3.58/4.00**. I specialize in **backend development** with full-stack capabilities, focusing on building scalable systems, designing robust architectures, and writing clean, optimized code.
+A passionate Computer Science graduate with a strong foundation in software engineering and a CGPA of **3.60/4.00**. I specialize in **backend development** with full-stack capabilities, focusing on building scalable systems, designing robust architectures, and writing clean, optimized code.
 
 I love diving deep into system design, exploring cutting-edge technologies, and solving real-world problems through thoughtful engineering.
 
-**Currently building** → [UniConnect](https://github.com/M-Ahmad-Usman/uniconnect) — A Discord-inspired university communication platform (Final Year Project)
+**Recently shipped** → [UniConnect](https://github.com/M-Ahmad-Usman/uniconnect) — A Discord-inspired university communication platform (Final Year Project) — live & deployed
 
-**Learning** → State Management (Redux, React Query) via Full Stack Open Part 6
+**Learning** → GraphQL via Full Stack Open Part 8
 
 **Open to** → Backend roles, full-stack positions, and open source collaboration
 
@@ -29,6 +29,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td valign="top" width="50%">
 
 ### Backend & Infrastructure
+
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" />
@@ -37,35 +38,41 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <br>
 
 **Core Technologies:**
+
 - Node.js & Express.js for server-side development
-- PostgreSQL for relational databases & complex data models
-- MongoDB for NoSQL document storage
-- SQLite for lightweight database solutions
+- PostgreSQL with Kysely for type-safe query building
+- MongoDB & Mongoose (ODM) for NoSQL document storage
+- Zod for schema validation
 
 **Key Skills:**
+
 - RESTful API Design & Development
 - Database Schema Design & Optimization
-- Authentication & Authorization (JWT, bcrypt)
+- Authentication & Authorization (JWT, refresh-token rotation, bcrypt)
 - Server-side validation & error handling
 
 </td>
 <td valign="top" width="50%">
 
 ### Frontend Development
+
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,javascript,html,css,tailwind,redux&theme=dark" />
 </a>
 
 <br>
 
 **Core Technologies:**
+
 - React.js (Hooks, Context API, Component Architecture)
+- Redux Toolkit for state management
 - TypeScript for type-safe development
 - Modern JavaScript (ES6+, Async/Await, Promises)
 - Tailwind CSS for utility-first styling
 
 **Key Skills:**
+
 - Component-driven development
 - State management & side effects
 - Responsive design & accessibility
@@ -76,6 +83,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td valign="top" width="50%">
 
 ### Testing & Quality Assurance
+
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vitest,jest,postman&theme=dark" />
@@ -84,6 +92,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <br>
 
 **Testing Stack:**
+
 - Vitest & Jest for unit testing
 - React Testing Library for component tests
 - Playwright for E2E testing
@@ -93,6 +102,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td valign="top" width="50%">
 
 ### Development Tools & Environment
+
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" />
@@ -102,12 +112,14 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <br>
 
 **Development Environment:**
+
 - N8N for automation workflows & integrations
 - Git & GitHub for version control
 - Linux/Ubuntu (WSL2) for development
 - VS Code as primary IDE
 - Docker for containerization
 - ZSH and Bash shells
+- GitHub Copilot, Codex, Cursor
 
 </td>
 </tr>
@@ -115,6 +127,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td>
 
 ### Programming Languages
+
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,javascript,cpp,c,python,cs&theme=dark" />
@@ -138,18 +151,19 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 
 <div>
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **UniConnect** | University Communication Platform | PERN + TypeScript | 🔨 In Development |
-| [**Full Stack Open**](https://github.com/M-Ahmad-Usman/fullstackopen) | Modern Web Dev Course | MERN + Testing | 📖 Part 6/13 |
-| [**Expression Evaluator**](https://github.com/odin-projects-ahmad/calculator) | Advanced Calculator | Vanilla JS | ✅ Complete |
-| [**DSA Labs**](https://github.com/M-Ahmad-Usman/data-structures-and-algorithms) | Data Structures in C++ | C++17, Templates | ✅ Complete |
+| Project                                                                         | Description                       | Tech Stack        | Status             |
+| ------------------------------------------------------------------------------- | --------------------------------- | ----------------- | ------------------ |
+| **UniConnect**                                                                  | University Communication Platform | PERN + TypeScript | ✅ Live & Deployed |
+| [**Full Stack Open**](https://github.com/M-Ahmad-Usman/fullstackopen)           | Modern Web Dev Course             | MERN    | 📖 Part 7/13       |
+| [**Expression Evaluator**](https://github.com/odin-projects-ahmad/calculator)   | Advanced Calculator               | Vanilla JS        | ✅ Complete        |
+| [**DSA Labs**](https://github.com/M-Ahmad-Usman/data-structures-and-algorithms) | Data Structures in C++            | C++17, Templates  | ✅ Complete        |
 
 </div>
 
 ---
 
 ### 🏛️ UniConnect — University Communication Platform
+
 **Final Year Project @ National Textile University**
 
 <a href="https://skillicons.dev">
@@ -166,6 +180,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td width="50%" valign="top">
 
 **Complex RBAC System**
+
 - **Dual-permission architecture:**
   - **Academic roles** (HOD, Program Director, CR) — Hard-coded business logic, institution-specific
   - **Platform roles** (Moderators) — Configurable, scope-based permissions
@@ -175,6 +190,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td width="50%" valign="top">
 
 **Database Architecture**
+
 - Comprehensive **PostgreSQL schema** with **30+ interconnected entities**
   - Core: Users, Departments, Programs, Classes, Courses
   - Communication: Servers, Channels, Posts, Notifications
@@ -187,13 +203,14 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 
 <div align="center">
 
-**Status:** Database Design Complete · Backend & Frontend In Progress
+**Status:** ✅ Live & Deployed — Azure App Service · Custom Domain · 447 Passing Tests · Full CI/CD
 
 </div>
 
 ---
 
 ### Full Stack Open — Modern Web Development Journey
+
 **University of Helsinki · Industry-Grade Full Stack Course**
 
 <a href="https://skillicons.dev">
@@ -211,13 +228,16 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 ✅ Part 3: Programming Server with Node.js (Express, MongoDB, Deployment)
 ✅ Part 4: Testing Express Servers (JWT Auth, Backend Testing, User Admin)
 ✅ Part 5: Testing React Apps (Component Tests, E2E Tests, Token Auth)
-🔄 Part 6: State Management (Redux, React Query) — In Progress
-⏳ Part 7–13: Advanced Topics, TypeScript, GraphQL, CI/CD
+✅ Part 6: State Management (Redux, React Query)
+🔄 Part 7: Advanced Topics (React Router, Custom Hooks, Styling) — Finishing up
+⏳ Part 8: GraphQL — Starting next
+⏳ Part 9–13: TypeScript, CI/CD, Advanced Patterns
 ```
 
 ---
 
 ### Advanced Arithmetic Expression Evaluator
+
 **Algorithm Implementation · The Odin Project**
 
 <a href="https://skillicons.dev">
@@ -245,6 +265,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 ---
 
 ### Data Structures & Algorithms Implementation
+
 **University Course Labs · C++ Mastery**
 
 <a href="https://skillicons.dev">
@@ -260,12 +281,14 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td width="50%" valign="top">
 
 **📚 Data Structures Implemented:**
+
 - ✅ Singly & Doubly Linked Lists
 - ✅ Stacks (Array-based, Expression evaluation)
 - ✅ Queues (Array & Linked List based)
 - ✅ Template-based generic implementations
 
 **Algorithms Covered:**
+
 - Sorting & Searching techniques
 - Recursion (Factorial, Fibonacci, Power)
 - Mathematical computations
@@ -275,6 +298,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 <td width="50%" valign="top">
 
 **Technical Depth:**
+
 - **Template Programming** for type-generic code
 - **Memory Management** (constructors, destructors, RAII)
 - **Exception Handling** (runtime_error, validation)
@@ -282,6 +306,7 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 - **Function Overloading** & polymorphism
 
 **Coverage:**
+
 - 9 comprehensive lab assignments
 - Multiple exercises per lab
 - Production-quality code with proper error handling
@@ -301,33 +326,15 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 
 <div align="center">
 
-[![Top Languages](https://m-ahmad-usman-github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmad-Usman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)](https://github.com/M-Ahmad-Usman)
+### Contribution Graph
 
-<table>
-
-<tr>
-<td width="50%">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M-Ahmad-Usman&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&timezone=Asia%2FKarachi)](https://github.com/M-Ahmad-Usman)
-
-</td>
-
-<td width="50%">
-
-[![GitHub Stats](https://m-ahmad-usman-github-readme-stats.vercel.app/api?username=M-Ahmad-Usman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF)](https://github.com/M-Ahmad-Usman)
-
-</td>
-</tr>
-
-</table>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Ahmad-Usman&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF)](https://github.com/M-Ahmad-Usman)
 
 </div>
 
 <div align="center">
 
-### Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Ahmad-Usman&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF)](https://github.com/M-Ahmad-Usman)
+[![Top Languages](https://m-ahmad-usman-github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmad-Usman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)](https://github.com/M-Ahmad-Usman)
 
 </div>
 
@@ -339,22 +346,24 @@ I love diving deep into system design, exploring cutting-edge technologies, and 
 
 ### Academic Journey
 
+### Academic Journey
+
 **Bachelor of Science in Computer Science**  
 National Textile University, Faisalabad
 
-- **Current:** Completed 7th Semester — SGPA: **3.78** ⭐
-- **Overall CGPA:** **3.58/4.00**
+- **Status:** Graduated — 8th Semester completed, SGPA: **3.77** ⭐
+- **Overall CGPA:** **3.60/4.00**
 - Consistent academic excellence throughout
 
 <br>
 
 ### Continuous Learning
 
-| Course | Institution | Status |
-|--------|-------------|--------|
-| **Full Stack Open** | Univ. of Helsinki | Part 6/13 |
-| **The Odin Project** | TOP Community | JS Section |
-| **CS50x** | Harvard University | In Progress |
+| Course               | Institution        | Status                         |
+| -------------------- | ------------------ | ------------------------------ |
+| **Full Stack Open**  | Univ. of Helsinki  | Part 7/13 (nearing completion) |
+| **The Odin Project** | TOP Community      | JS Section                     |
+| **CS50x**            | Harvard University | Completed                      |
 
 </td>
 <td width="45%" valign="top">
@@ -362,11 +371,17 @@ National Textile University, Faisalabad
 ### Experience
 
 #### MERN Stack Intern — NetixSol
+
 **Jul 2025 – Sep 2025**
-- Built multiple production-style applications using React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, and TypeScript
+
+- Built frontend interfaces using React.js, Next.js, and TailwindCSS, and developed RESTful APIs with Node.js/Express and NestJS using MongoDB with Mongoose as ODM
+
+- Developed multiple production-style applications and integrated RESTful APIs for task management, e-commerce, and user-driven applications with CRUD operations, JWT-based authentication, request validation, error handling.
 
 #### Teaching Assistant — OS Lab
+
 **Sep 2025 – Jan 2026**
+
 - Guided students through OS concepts & Linux fundamentals
 - Assisted with WSL2 installations and Linux distro setup
 - Mentored on process & memory management
@@ -409,28 +424,28 @@ National Textile University, Faisalabad
 ```yaml
 Opportunities:
   Backend Developer Roles:
-      - Node.js/Express specialization
-      - Database design & optimization
-      - RESTful API development
+    - Node.js/Express specialization
+    - Database design & optimization
+    - RESTful API development
 
   Full Stack Positions:
-      - With backend emphasis
-      - MERN/PERN stack projects
+    - With backend emphasis
+    - MERN/PERN stack projects
 
   Open Source:
-      - Contributing to impactful projects
-      - Web dev tools & frameworks
-      - Database & backend libraries
+    - Contributing to impactful projects
+    - Web dev tools & frameworks
+    - Database & backend libraries
 
   Collaboration:
-      - Building scalable applications
-      - System design discussions
-      - Code reviews & best practices
+    - Building scalable applications
+    - System design discussions
+    - Code reviews & best practices
 
   Mentorship:
-      - Web development guidance
-      - Database design patterns
-      - Career advice for CS students
+    - Web development guidance
+    - Database design patterns
+    - Career advice for CS students
 ```
 
 </td>
@@ -440,24 +455,23 @@ Opportunities:
 
 ```yaml
 Technical Interests:
-
   Database Engineering:
-      - Schema design & normalization
-      - Query optimization
-      - PostgreSQL concepts
+    - Schema design & normalization
+    - Query optimization
+    - PostgreSQL concepts
 
   Authentication Systems:
-      - JWT & token management
-      - RBAC implementation
+    - JWT & token management
+    - RBAC implementation
 
   Testing Strategies:
-      - Integration testing
-      - E2E testing
+    - Integration testing
+    - E2E testing
 
   System Design:
-      - Scalable architectures
-      - API design patterns
-      - Clean code principles
+    - Scalable architectures
+    - API design patterns
+    - Clean code principles
 ```
 
 </td>
@@ -470,7 +484,7 @@ Technical Interests:
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-*If you find my work interesting, consider ⭐ starring my repositories!*
+_If you find my work interesting, consider ⭐ starring my repositories!_
 
 **Thank you for visiting!**
 
